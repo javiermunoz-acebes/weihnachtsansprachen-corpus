@@ -1,12 +1,16 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 authors:
-- family-names: F. Javier
-  given-names: Muñoz-Acebes
-orcid: https://orcid.org/0000-0002-8882-5226
-title: Weihnachtsansprachen Corpus: A plain-text corpus of German federal Christmas addresses
-version: v0.1.3
-date-released: 2026-05-27
+  - family-names: Muñoz-Acebes
+    given-names: F. Javier
+    orcid: "https://orcid.org/0000-0002-8882-5226"
+title: "Weihnachtsansprachen Corpus: A plain-text corpus of German federal Christmas addresses"
+type: dataset
+version: 0.1.3
+date-released: "2025-01-01"
+url: "https://github.com/javiermunoz-acebes/weihnachtsansprachen-corpus"
+license: CC-BY-4.0
+repository-code: "https://github.com/javiermunoz-acebes/weihnachtsansprachen-corpus"
 keywords:
   - corpus linguistics
   - digital philology
