@@ -3,7 +3,7 @@ message: "If you use this dataset, please cite it as below."
 authors:
   - family-names: Muñoz-Acebes
     given-names: F. Javier
-    orcid: https://orcid.org/0000-0002-8882-5226
+    orcid: "https://orcid.org/0000-0002-8882-5226"
 title: "Weihnachtsansprachen Corpus: A plain-text corpus of German federal Christmas addresses"
 type: dataset
 version: 0.1.0
