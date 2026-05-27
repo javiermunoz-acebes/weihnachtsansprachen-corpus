@@ -1,6 +1,12 @@
-# Weihnachtsansprachen Corpus
+# Weihnachtsansprachen-Korpus
 
-A corpus of Christmas speeches (*Weihnachtsansprachen*) by German Chancellors.
+A plain-text corpus of German federal Christmas addresses (*Weihnachtsansprachen*), compiled for digital philological and computational text analysis research. The corpus is designed for incremental expansion across speakers and periods.
+
+## Current coverage
+
+| Speaker | Period | Speeches |
+|---------|--------|----------|
+| Konrad Adenauer | 1949–1962 | 14 |
 
 ## Repository structure
 
@@ -18,10 +24,6 @@ weihnachtsansprachen-corpus/
         └── Adenauer_Weihnachtsanprache_1962.txt
 ```
 
-## Description
-
-This corpus contains the Christmas speeches of German Chancellors from Konrad Adenauer onwards. The speeches are provided in plain text format.
-
 ## License
 
-Please cite this corpus according to the `CITATION.cff` file.
+This corpus is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please cite according to `CITATION.cff`.
