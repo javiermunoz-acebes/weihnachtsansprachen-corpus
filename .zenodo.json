@@ -1,0 +1,22 @@
+{
+  "title": "Weihnachtsansprachen Corpus: A plain-text corpus of German federal Christmas addresses",
+  "description": "Plain-text corpus of German federal Christmas addresses (Weihnachtsansprachen), 1949-1962, compiled for digital philological and computational text analysis research.",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Muñoz-Acebes, F. Javier",
+      "affiliation": "Universidad de Valladolid",
+      "orcid": "0000-0002-8882-5226"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "corpus linguistics",
+    "digital philology",
+    "German",
+    "Christmas speeches",
+    "Weihnachtsansprachen",
+    "computational text analysis"
+  ],
+  "language": "deu"
+}
